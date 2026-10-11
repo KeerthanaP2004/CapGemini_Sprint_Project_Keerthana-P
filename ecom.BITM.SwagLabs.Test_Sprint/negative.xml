@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Negative Suite" verbose="2" parallel="false">
+    <test name="Negative Tests">
+        <groups>
+            <run>
+                <include name="negative"/>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1"/>
+            <class name="ecom.BITM.SwagLabs.Login.SwagLabsInvalidLoginPage_TS2"/>
+            <class name="ecom.BITM.SwagLabs.Login.SwagLabsEmptyLoginPage_TS3"/>
+            <class name="ecom.BITM.SwagLabs.Login.SwagLabsEmptyUsernameLogin_TS4"/>
+
+            <class name="ecom.BITM.SwagLabs.Product.SwagLabsProductPageValidation_TS1"/>
+            <class name="ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2"/>
+            <class name="ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3"/>
+            <class name="ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4"/>
+            <class name="ecom.BITM.SwagLabs.Product.SwagLabsMultipleProductsToCart_TS5"/>
+            <class name="ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6"/>
+
+            <class name="ecom.BITM.SwagLabs.CartPage.SwagLabsAddProductToCart_TS1"/>
+            <class name="ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2"/>
+            <class name="ecom.BITM.SwagLabs.CartPage.SwagLabsCartContents_TS3"/>
+            <class name="ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4"/>
+            <class name="ecom.BITM.SwagLabs.CartPage.SwagLabsCartPersistence_TS5"/>
+
+            <class name="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1"/>
+            <class name="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2"/>
+            <class name="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3"/>
+
+            <class name="ecom.BITM.SwagLabs.ContactSupport.ContactSupport_TS1"/>
+
+            <class name="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1"/>
+            <class name="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2"/>
+        </classes>
+    </test>
+</suite>
+
