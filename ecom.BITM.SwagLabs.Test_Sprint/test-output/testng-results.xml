@@ -1,332 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="35" passed="35" failed="0" skipped="0">
+<testng-results ignored="30" total="35" passed="5" failed="0" skipped="0">
   <reporter-output>
     <line>
       <![CDATA[Open database connectivity]]>
     </line>
     <line>
       <![CDATA[Precondition]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Starting valid login test]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Valid Login Successful - Product page displayed]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Entering invalid username]]>
-    </line>
-    <line>
-      <![CDATA[Entering invalid password]]>
-    </line>
-    <line>
-      <![CDATA[Clicking Login button]]>
-    </line>
-    <line>
-      <![CDATA[Error message displayed: Epic sadface: Username and password do not match any user in this service]]>
-    </line>
-    <line>
-      <![CDATA[Invalid login validation successful]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Entering empty username]]>
-    </line>
-    <line>
-      <![CDATA[Entering empty password]]>
-    </line>
-    <line>
-      <![CDATA[Clicking Login button]]>
-    </line>
-    <line>
-      <![CDATA[Error message displayed: Epic sadface: Username is required]]>
-    </line>
-    <line>
-      <![CDATA[Empty login validation successful]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Entering empty username]]>
-    </line>
-    <line>
-      <![CDATA[Entering valid password]]>
-    </line>
-    <line>
-      <![CDATA[Clicking Login button]]>
-    </line>
-    <line>
-      <![CDATA[Error message displayed: Epic sadface: Username is required]]>
-    </line>
-    <line>
-      <![CDATA[Empty username validation successful]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Logging in with valid credentials]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Verifying Product Page]]>
-    </line>
-    <line>
-      <![CDATA[Product Page displayed successfully]]>
-    </line>
-    <line>
-      <![CDATA[Verifying Product Information]]>
-    </line>
-    <line>
-      <![CDATA[Product: Sauce Labs Backpack | Price: $29.99]]>
-    </line>
-    <line>
-      <![CDATA[Product: Sauce Labs Bike Light | Price: $9.99]]>
-    </line>
-    <line>
-      <![CDATA[Product: Sauce Labs Bolt T-Shirt | Price: $15.99]]>
-    </line>
-    <line>
-      <![CDATA[Product: Sauce Labs Fleece Jacket | Price: $49.99]]>
-    </line>
-    <line>
-      <![CDATA[Product: Sauce Labs Onesie | Price: $7.99]]>
-    </line>
-    <line>
-      <![CDATA[Product: Test.allTheThings() T-Shirt (Red) | Price: $15.99]]>
-    </line>
-    <line>
-      <![CDATA[Product Information verified successfully]]>
-    </line>
-    <line>
-      <![CDATA[Opening Product Details: Sauce Labs Backpack]]>
-    </line>
-    <line>
-      <![CDATA[Product Details opened successfully]]>
-    </line>
-    <line>
-      <![CDATA[Product Page Validation completed successfully]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Logging in with valid credentials]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Product sorting A-Z verified successfully]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Logging in with valid credentials]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Product sorting Z-A verified successfully]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Logging in with valid credentials]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Price high-to-low sorting verified successfully]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Logging in with valid credentials]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Price low-to-high sorting verified successfully]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Product name: Sauce Labs Backpack]]>
-    </line>
-    <line>
-      <![CDATA[Product price: $29.99]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Cart badge count: 1]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Expected product name: Sauce Labs Backpack]]>
-    </line>
-    <line>
-      <![CDATA[Cart badge count: 1]]>
-    </line>
-    <line>
-      <![CDATA[Opening shopping cart]]>
-    </line>
-    <line>
-      <![CDATA[Current URL: https://www.saucedemo.com/cart.html]]>
-    </line>
-    <line>
-      <![CDATA[Cart item count: 1]]>
-    </line>
-    <line>
-      <![CDATA[Product name in cart: Sauce Labs Backpack]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Expected product price: $29.99]]>
-    </line>
-    <line>
-      <![CDATA[Product price in cart: $29.99]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
     </line>
     <line>
       <![CDATA[Requested browser: chrome]]>
@@ -348,57 +27,6 @@
     </line>
     <line>
       <![CDATA[Unauthorized Product Page validation successful]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Logging in with valid credentials]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[First selected product: Sauce Labs Backpack]]>
-    </line>
-    <line>
-      <![CDATA[Second selected product: Sauce Labs Bike Light]]>
-    </line>
-    <line>
-      <![CDATA[First product added to cart]]>
-    </line>
-    <line>
-      <![CDATA[Second product added to cart]]>
-    </line>
-    <line>
-      <![CDATA[Cart badge correctly displays 2]]>
-    </line>
-    <line>
-      <![CDATA[Shopping Cart opened successfully]]>
-    </line>
-    <line>
-      <![CDATA[Two products are present in the cart]]>
-    </line>
-    <line>
-      <![CDATA[Cart Product: Sauce Labs Backpack]]>
-    </line>
-    <line>
-      <![CDATA[Cart Product: Sauce Labs Bike Light]]>
-    </line>
-    <line>
-      <![CDATA[Both selected products are correctly synchronized with Cart]]>
     </line>
     <line>
       <![CDATA[Test method execution completed]]>
@@ -455,276 +83,6 @@
       <![CDATA[Login successful]]>
     </line>
     <line>
-      <![CDATA[Adding the first product to cart]]>
-    </line>
-    <line>
-      <![CDATA[Opening the shopping cart]]>
-    </line>
-    <line>
-      <![CDATA[Product added and verified successfully]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Cart badge verified after removal]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Product verified before removal]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Product removed successfully]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Adding two products to cart]]>
-    </line>
-    <line>
-      <![CDATA[Both products are displayed in the cart: [Sauce Labs Backpack, Sauce Labs Bike Light]]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Logging in with valid credentials]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Opening the empty shopping cart]]>
-    </line>
-    <line>
-      <![CDATA[Verifying checkout behavior for an empty cart]]>
-    </line>
-    <line>
-      <![CDATA[Empty-cart checkout behavior verified]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Logging in with valid credentials]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Selected product: Sauce Labs Backpack]]>
-    </line>
-    <line>
-      <![CDATA[Adding product to cart]]>
-    </line>
-    <line>
-      <![CDATA[Opening cart for the first time]]>
-    </line>
-    <line>
-      <![CDATA[Returning to Products page]]>
-    </line>
-    <line>
-      <![CDATA[Opening cart for the second time]]>
-    </line>
-    <line>
-      <![CDATA[Cart persistence verified successfully]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Testing checkout without first name]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Checkout validation error: Error: First Name is required]]>
-    </line>
-    <line>
-      <![CDATA[First-name validation verified]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Testing checkout without last name]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Checkout validation error: Error: Last Name is required]]>
-    </line>
-    <line>
-      <![CDATA[Last-name validation verified]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Testing checkout without postal code]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Checkout validation error: Error: Postal Code is required]]>
-    </line>
-    <line>
-      <![CDATA[Postal-code validation verified]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Opening checkout overview before cancellation]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Checkout cancellation verified]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Opening checkout overview]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Checkout overview verified successfully]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Logging in with valid credentials]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
       <![CDATA[Adding product to cart]]>
     </line>
     <line>
@@ -752,81 +110,6 @@
       <![CDATA[Swag Labs application launched]]>
     </line>
     <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[All three social media links are displayed]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[X/Twitter URL: https://x.com/saucelabs]]>
-    </line>
-    <line>
-      <![CDATA[Facebook URL: https://www.facebook.com/saucelabs]]>
-    </line>
-    <line>
-      <![CDATA[LinkedIn URL: https://www.linkedin.com/company/sauce-labs/]]>
-    </line>
-    <line>
-      <![CDATA[Social media URLs validated successfully]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Social media link count: 3]]>
-    </line>
-    <line>
-      <![CDATA[Social media link count validated]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
-      <![CDATA[Login successful]]>
-    </line>
-    <line>
-      <![CDATA[Expected X URL: https://x.com/saucelabs]]>
-    </line>
-    <line>
-      <![CDATA[Actual URL after click: https://x.com/saucelabs]]>
-    </line>
-    <line>
-      <![CDATA[X link click and navigation verified successfully]]>
-    </line>
-    <line>
-      <![CDATA[Test method execution completed]]>
-    </line>
-    <line>
-      <![CDATA[Close the browser]]>
-    </line>
-    <line>
-      <![CDATA[Requested browser: chrome]]>
-    </line>
-    <line>
-      <![CDATA[Browser launched successfully: ChromeDriver]]>
-    </line>
-    <line>
-      <![CDATA[Swag Labs application launched]]>
-    </line>
-    <line>
       <![CDATA[Logging in with valid credentials]]>
     </line>
     <line>
@@ -840,6 +123,9 @@
     </line>
     <line>
       <![CDATA[Finishing the order]]>
+    </line>
+    <line>
+      <![CDATA[Verifying order completion image]]>
     </line>
     <line>
       <![CDATA[Thank-you page verified successfully]]>
@@ -908,120 +194,39 @@
       <![CDATA[Close database connectivity]]>
     </line>
   </reporter-output>
-  <suite started-at="2026-10-12T12:14:52 IST" name="Suite" finished-at="2026-10-12T12:21:52 IST" duration-ms="419994">
+  <suite started-at="2026-10-12T13:49:48 IST" name="System Suite" finished-at="2026-10-12T13:50:38 IST" duration-ms="50537">
     <groups>
       <group name="negative">
-        <method signature="SwagLabsEmptyCart_TS4.verifyCheckoutWithEmptyCart()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4@21b2e768]" name="verifyCheckoutWithEmptyCart" class="ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4"/>
-        <method signature="SwagLabsCheckoutValidation_TS1.verifyFirstNameRequired()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" name="verifyFirstNameRequired" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1"/>
-        <method signature="SwagLabsCheckoutValidation_TS1.verifyLastNameRequired()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" name="verifyLastNameRequired" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1"/>
-        <method signature="SwagLabsCheckoutValidation_TS1.verifyPostalCodeRequired()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" name="verifyPostalCodeRequired" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1"/>
-        <method signature="SwagLabsEmptyLoginPage_TS3.emptyLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyLoginPage_TS3@6ff29830]" name="emptyLoginTest" class="ecom.BITM.SwagLabs.Login.SwagLabsEmptyLoginPage_TS3"/>
-        <method signature="SwagLabsEmptyUsernameLogin_TS4.emptyUsernameLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyUsernameLogin_TS4@6a2b953e]" name="emptyUsernameLoginTest" class="ecom.BITM.SwagLabs.Login.SwagLabsEmptyUsernameLogin_TS4"/>
-        <method signature="SwagLabsInvalidLoginPage_TS2.invalidLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsInvalidLoginPage_TS2@2638011]" name="invalidLoginTest" class="ecom.BITM.SwagLabs.Login.SwagLabsInvalidLoginPage_TS2"/>
-        <method signature="SwagLabsInvalidProductDetails_TS6.verifyInvalidProductDetails()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@175b9425]" name="verifyInvalidProductDetails" class="ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6"/>
-        <method signature="SwagLabsUnauthorizedProductPage_TS4.verifyUnauthorizedProductPageAccess()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@623a8092]" name="verifyUnauthorizedProductPageAccess" class="ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4"/>
+        <method signature="SwagLabsInvalidProductDetails_TS6.verifyInvalidProductDetails()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@68567e20]" name="verifyInvalidProductDetails" class="ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6"/>
+        <method signature="SwagLabsUnauthorizedProductPage_TS4.verifyUnauthorizedProductPageAccess()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@2118cddf]" name="verifyUnauthorizedProductPageAccess" class="ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4"/>
       </group> <!-- negative -->
       <group name="functional">
-        <method signature="SwagLabsAddProductToCart_TS1.verifyProductAddedToCart()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsAddProductToCart_TS1@3098cf3b]" name="verifyProductAddedToCart" class="ecom.BITM.SwagLabs.CartPage.SwagLabsAddProductToCart_TS1"/>
-        <method signature="SwagLabsCartContents_TS3.verifyMultipleProductsInCart()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsCartContents_TS3@6a03bcb1]" name="verifyMultipleProductsInCart" class="ecom.BITM.SwagLabs.CartPage.SwagLabsCartContents_TS3"/>
-        <method signature="SwagLabsCartPersistence_TS5.verifyCartPersistenceDuringNavigation()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsCartPersistence_TS5@57250572]" name="verifyCartPersistenceDuringNavigation" class="ecom.BITM.SwagLabs.CartPage.SwagLabsCartPersistence_TS5"/>
-        <method signature="SwagLabsEmptyCart_TS4.verifyCheckoutWithEmptyCart()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4@21b2e768]" name="verifyCheckoutWithEmptyCart" class="ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4"/>
-        <method signature="SwagLabsRemoveProductFromCart_TS2.verifyCartBadgeAfterRemovingLastProduct()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" name="verifyCartBadgeAfterRemovingLastProduct" class="ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2"/>
-        <method signature="SwagLabsRemoveProductFromCart_TS2.verifyProductDisplayedBeforeRemoval()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" name="verifyProductDisplayedBeforeRemoval" class="ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2"/>
-        <method signature="SwagLabsRemoveProductFromCart_TS2.verifyProductRemovedFromCart()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" name="verifyProductRemovedFromCart" class="ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2"/>
-        <method signature="SwagLabsCheckoutComplete_TS3.verifySuccessfulOrderCompletion()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@17a7f733]" name="verifySuccessfulOrderCompletion" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3"/>
-        <method signature="SwagLabsCheckoutOverview_TS2.verifyCancelCheckoutReturnsToProducts()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2@2118cddf]" name="verifyCancelCheckoutReturnsToProducts" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2"/>
-        <method signature="SwagLabsCheckoutOverview_TS2.verifyCheckoutOverviewDetails()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2@2118cddf]" name="verifyCheckoutOverviewDetails" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2"/>
-        <method signature="SwagLabsCheckoutValidation_TS1.verifyFirstNameRequired()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" name="verifyFirstNameRequired" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1"/>
-        <method signature="SwagLabsCheckoutValidation_TS1.verifyLastNameRequired()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" name="verifyLastNameRequired" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1"/>
-        <method signature="SwagLabsCheckoutValidation_TS1.verifyPostalCodeRequired()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" name="verifyPostalCodeRequired" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1"/>
-        <method signature="SwagLabsEmptyLoginPage_TS3.emptyLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyLoginPage_TS3@6ff29830]" name="emptyLoginTest" class="ecom.BITM.SwagLabs.Login.SwagLabsEmptyLoginPage_TS3"/>
-        <method signature="SwagLabsEmptyUsernameLogin_TS4.emptyUsernameLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyUsernameLogin_TS4@6a2b953e]" name="emptyUsernameLoginTest" class="ecom.BITM.SwagLabs.Login.SwagLabsEmptyUsernameLogin_TS4"/>
-        <method signature="SwagLabsInvalidLoginPage_TS2.invalidLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsInvalidLoginPage_TS2@2638011]" name="invalidLoginTest" class="ecom.BITM.SwagLabs.Login.SwagLabsInvalidLoginPage_TS2"/>
-        <method signature="SwagLabsValidLoginPage_TS1.validLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@7a675056]" name="validLoginTest" class="ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1"/>
-        <method signature="SwagLabsInvalidProductDetails_TS6.verifyInvalidProductDetails()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@175b9425]" name="verifyInvalidProductDetails" class="ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6"/>
-        <method signature="SwagLabsMultipleProductsToCart_TS5.verifyMultipleProductsAddedToCart()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsMultipleProductsToCart_TS5@a1cdc6d]" name="verifyMultipleProductsAddedToCart" class="ecom.BITM.SwagLabs.Product.SwagLabsMultipleProductsToCart_TS5"/>
-        <method signature="SwagLabsProductPageValidation_TS1.verifyProductPageValidation()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductPageValidation_TS1@313b2ea6]" name="verifyProductPageValidation" class="ecom.BITM.SwagLabs.Product.SwagLabsProductPageValidation_TS1"/>
-        <method signature="SwagLabsProductSorting_TS2.verifyProductSortingNameAToZ()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" name="verifyProductSortingNameAToZ" class="ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2"/>
-        <method signature="SwagLabsProductSorting_TS2.verifyProductSortingNameZToA()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" name="verifyProductSortingNameZToA" class="ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2"/>
-        <method signature="SwagLabsProductSorting_TS2.verifyProductSortingPriceHighToLow()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" name="verifyProductSortingPriceHighToLow" class="ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2"/>
-        <method signature="SwagLabsProductSorting_TS2.verifyProductSortingPriceLowToHigh()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" name="verifyProductSortingPriceLowToHigh" class="ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2"/>
-        <method signature="SwagLabsUnauthorizedProductPage_TS4.verifyUnauthorizedProductPageAccess()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@623a8092]" name="verifyUnauthorizedProductPageAccess" class="ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4"/>
-        <method signature="SwagLabsThankYouNavigation_TS2.verifyBackHomeNavigationAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@11fc564b]" name="verifyBackHomeNavigationAfterSuccessfulOrder" class="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2"/>
-        <method signature="SwagLabsThankYouPage_TS1.verifyThankYouPageAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@76ed1b7c]" name="verifyThankYouPageAfterSuccessfulOrder" class="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1"/>
-        <method signature="SwagLabsContactSupport_TS1.verifyFooterSocialLinksDisplayed()[pri:1, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" name="verifyFooterSocialLinksDisplayed" class="ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1"/>
-        <method signature="SwagLabsProductToCart_TS3.verifyProductDetailsBeforeAddingToCart()[pri:1, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" name="verifyProductDetailsBeforeAddingToCart" class="ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3"/>
-        <method signature="SwagLabsContactSupport_TS1.verifySocialMediaLinkURLs()[pri:2, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" name="verifySocialMediaLinkURLs" class="ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1"/>
-        <method signature="SwagLabsProductToCart_TS3.verifyProductAddedToCartBadge()[pri:2, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" name="verifyProductAddedToCartBadge" class="ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3"/>
-        <method signature="SwagLabsContactSupport_TS1.verifySocialMediaLinkCount()[pri:3, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" name="verifySocialMediaLinkCount" class="ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1"/>
-        <method signature="SwagLabsProductToCart_TS3.verifyProductDisplayedInCart()[pri:3, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" name="verifyProductDisplayedInCart" class="ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3"/>
-        <method signature="SwagLabsContactSupport_TS1.verifyXLinkNavigation()[pri:4, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" name="verifyXLinkNavigation" class="ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1"/>
-        <method signature="SwagLabsProductToCart_TS3.verifyProductPriceInCart()[pri:4, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" name="verifyProductPriceInCart" class="ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3"/>
+        <method signature="SwagLabsCheckoutComplete_TS3.verifySuccessfulOrderCompletion()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@32910148]" name="verifySuccessfulOrderCompletion" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3"/>
+        <method signature="SwagLabsInvalidProductDetails_TS6.verifyInvalidProductDetails()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@68567e20]" name="verifyInvalidProductDetails" class="ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6"/>
+        <method signature="SwagLabsUnauthorizedProductPage_TS4.verifyUnauthorizedProductPageAccess()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@2118cddf]" name="verifyUnauthorizedProductPageAccess" class="ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4"/>
+        <method signature="SwagLabsThankYouNavigation_TS2.verifyBackHomeNavigationAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@fd07cbb]" name="verifyBackHomeNavigationAfterSuccessfulOrder" class="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2"/>
+        <method signature="SwagLabsThankYouPage_TS1.verifyThankYouPageAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@2b4bac49]" name="verifyThankYouPageAfterSuccessfulOrder" class="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1"/>
       </group> <!-- functional -->
       <group name="system">
-        <method signature="SwagLabsCheckoutComplete_TS3.verifySuccessfulOrderCompletion()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@17a7f733]" name="verifySuccessfulOrderCompletion" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3"/>
-        <method signature="SwagLabsInvalidProductDetails_TS6.verifyInvalidProductDetails()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@175b9425]" name="verifyInvalidProductDetails" class="ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6"/>
-        <method signature="SwagLabsUnauthorizedProductPage_TS4.verifyUnauthorizedProductPageAccess()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@623a8092]" name="verifyUnauthorizedProductPageAccess" class="ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4"/>
-        <method signature="SwagLabsThankYouNavigation_TS2.verifyBackHomeNavigationAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@11fc564b]" name="verifyBackHomeNavigationAfterSuccessfulOrder" class="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2"/>
-        <method signature="SwagLabsThankYouPage_TS1.verifyThankYouPageAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@76ed1b7c]" name="verifyThankYouPageAfterSuccessfulOrder" class="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1"/>
+        <method signature="SwagLabsCheckoutComplete_TS3.verifySuccessfulOrderCompletion()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@32910148]" name="verifySuccessfulOrderCompletion" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3"/>
+        <method signature="SwagLabsInvalidProductDetails_TS6.verifyInvalidProductDetails()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@68567e20]" name="verifyInvalidProductDetails" class="ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6"/>
+        <method signature="SwagLabsUnauthorizedProductPage_TS4.verifyUnauthorizedProductPageAccess()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@2118cddf]" name="verifyUnauthorizedProductPageAccess" class="ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4"/>
+        <method signature="SwagLabsThankYouNavigation_TS2.verifyBackHomeNavigationAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@fd07cbb]" name="verifyBackHomeNavigationAfterSuccessfulOrder" class="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2"/>
+        <method signature="SwagLabsThankYouPage_TS1.verifyThankYouPageAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@2b4bac49]" name="verifyThankYouPageAfterSuccessfulOrder" class="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1"/>
       </group> <!-- system -->
       <group name="smoke">
-        <method signature="SwagLabsAddProductToCart_TS1.verifyProductAddedToCart()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsAddProductToCart_TS1@3098cf3b]" name="verifyProductAddedToCart" class="ecom.BITM.SwagLabs.CartPage.SwagLabsAddProductToCart_TS1"/>
-        <method signature="SwagLabsCheckoutComplete_TS3.verifySuccessfulOrderCompletion()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@17a7f733]" name="verifySuccessfulOrderCompletion" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3"/>
-        <method signature="SwagLabsValidLoginPage_TS1.validLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@7a675056]" name="validLoginTest" class="ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1"/>
-        <method signature="SwagLabsProductPageValidation_TS1.verifyProductPageValidation()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductPageValidation_TS1@313b2ea6]" name="verifyProductPageValidation" class="ecom.BITM.SwagLabs.Product.SwagLabsProductPageValidation_TS1"/>
-        <method signature="SwagLabsProductSorting_TS2.verifyProductSortingNameAToZ()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" name="verifyProductSortingNameAToZ" class="ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2"/>
-        <method signature="SwagLabsThankYouPage_TS1.verifyThankYouPageAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@76ed1b7c]" name="verifyThankYouPageAfterSuccessfulOrder" class="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1"/>
-        <method signature="SwagLabsContactSupport_TS1.verifyFooterSocialLinksDisplayed()[pri:1, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" name="verifyFooterSocialLinksDisplayed" class="ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1"/>
-        <method signature="SwagLabsProductToCart_TS3.verifyProductDetailsBeforeAddingToCart()[pri:1, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" name="verifyProductDetailsBeforeAddingToCart" class="ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3"/>
-        <method signature="SwagLabsProductToCart_TS3.verifyProductAddedToCartBadge()[pri:2, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" name="verifyProductAddedToCartBadge" class="ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3"/>
+        <method signature="SwagLabsCheckoutComplete_TS3.verifySuccessfulOrderCompletion()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@32910148]" name="verifySuccessfulOrderCompletion" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3"/>
+        <method signature="SwagLabsThankYouPage_TS1.verifyThankYouPageAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@2b4bac49]" name="verifyThankYouPageAfterSuccessfulOrder" class="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1"/>
       </group> <!-- smoke -->
       <group name="integration">
-        <method signature="SwagLabsAddProductToCart_TS1.verifyProductAddedToCart()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsAddProductToCart_TS1@3098cf3b]" name="verifyProductAddedToCart" class="ecom.BITM.SwagLabs.CartPage.SwagLabsAddProductToCart_TS1"/>
-        <method signature="SwagLabsCartContents_TS3.verifyMultipleProductsInCart()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsCartContents_TS3@6a03bcb1]" name="verifyMultipleProductsInCart" class="ecom.BITM.SwagLabs.CartPage.SwagLabsCartContents_TS3"/>
-        <method signature="SwagLabsCartPersistence_TS5.verifyCartPersistenceDuringNavigation()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsCartPersistence_TS5@57250572]" name="verifyCartPersistenceDuringNavigation" class="ecom.BITM.SwagLabs.CartPage.SwagLabsCartPersistence_TS5"/>
-        <method signature="SwagLabsEmptyCart_TS4.verifyCheckoutWithEmptyCart()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4@21b2e768]" name="verifyCheckoutWithEmptyCart" class="ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4"/>
-        <method signature="SwagLabsRemoveProductFromCart_TS2.verifyCartBadgeAfterRemovingLastProduct()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" name="verifyCartBadgeAfterRemovingLastProduct" class="ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2"/>
-        <method signature="SwagLabsRemoveProductFromCart_TS2.verifyProductDisplayedBeforeRemoval()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" name="verifyProductDisplayedBeforeRemoval" class="ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2"/>
-        <method signature="SwagLabsRemoveProductFromCart_TS2.verifyProductRemovedFromCart()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" name="verifyProductRemovedFromCart" class="ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2"/>
-        <method signature="SwagLabsCheckoutComplete_TS3.verifySuccessfulOrderCompletion()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@17a7f733]" name="verifySuccessfulOrderCompletion" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3"/>
-        <method signature="SwagLabsCheckoutOverview_TS2.verifyCancelCheckoutReturnsToProducts()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2@2118cddf]" name="verifyCancelCheckoutReturnsToProducts" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2"/>
-        <method signature="SwagLabsCheckoutOverview_TS2.verifyCheckoutOverviewDetails()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2@2118cddf]" name="verifyCheckoutOverviewDetails" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2"/>
-        <method signature="SwagLabsCheckoutValidation_TS1.verifyFirstNameRequired()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" name="verifyFirstNameRequired" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1"/>
-        <method signature="SwagLabsCheckoutValidation_TS1.verifyLastNameRequired()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" name="verifyLastNameRequired" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1"/>
-        <method signature="SwagLabsCheckoutValidation_TS1.verifyPostalCodeRequired()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" name="verifyPostalCodeRequired" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1"/>
-        <method signature="SwagLabsValidLoginPage_TS1.validLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@7a675056]" name="validLoginTest" class="ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1"/>
-        <method signature="SwagLabsMultipleProductsToCart_TS5.verifyMultipleProductsAddedToCart()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsMultipleProductsToCart_TS5@a1cdc6d]" name="verifyMultipleProductsAddedToCart" class="ecom.BITM.SwagLabs.Product.SwagLabsMultipleProductsToCart_TS5"/>
-        <method signature="SwagLabsProductSorting_TS2.verifyProductSortingNameAToZ()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" name="verifyProductSortingNameAToZ" class="ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2"/>
-        <method signature="SwagLabsProductSorting_TS2.verifyProductSortingNameZToA()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" name="verifyProductSortingNameZToA" class="ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2"/>
-        <method signature="SwagLabsProductSorting_TS2.verifyProductSortingPriceHighToLow()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" name="verifyProductSortingPriceHighToLow" class="ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2"/>
-        <method signature="SwagLabsProductSorting_TS2.verifyProductSortingPriceLowToHigh()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" name="verifyProductSortingPriceLowToHigh" class="ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2"/>
-        <method signature="SwagLabsThankYouNavigation_TS2.verifyBackHomeNavigationAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@11fc564b]" name="verifyBackHomeNavigationAfterSuccessfulOrder" class="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2"/>
-        <method signature="SwagLabsThankYouPage_TS1.verifyThankYouPageAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@76ed1b7c]" name="verifyThankYouPageAfterSuccessfulOrder" class="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1"/>
-        <method signature="SwagLabsProductToCart_TS3.verifyProductDetailsBeforeAddingToCart()[pri:1, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" name="verifyProductDetailsBeforeAddingToCart" class="ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3"/>
-        <method signature="SwagLabsContactSupport_TS1.verifySocialMediaLinkURLs()[pri:2, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" name="verifySocialMediaLinkURLs" class="ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1"/>
-        <method signature="SwagLabsProductToCart_TS3.verifyProductAddedToCartBadge()[pri:2, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" name="verifyProductAddedToCartBadge" class="ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3"/>
-        <method signature="SwagLabsContactSupport_TS1.verifySocialMediaLinkCount()[pri:3, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" name="verifySocialMediaLinkCount" class="ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1"/>
-        <method signature="SwagLabsProductToCart_TS3.verifyProductDisplayedInCart()[pri:3, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" name="verifyProductDisplayedInCart" class="ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3"/>
-        <method signature="SwagLabsContactSupport_TS1.verifyXLinkNavigation()[pri:4, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" name="verifyXLinkNavigation" class="ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1"/>
-        <method signature="SwagLabsProductToCart_TS3.verifyProductPriceInCart()[pri:4, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" name="verifyProductPriceInCart" class="ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3"/>
+        <method signature="SwagLabsCheckoutComplete_TS3.verifySuccessfulOrderCompletion()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@32910148]" name="verifySuccessfulOrderCompletion" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3"/>
+        <method signature="SwagLabsThankYouNavigation_TS2.verifyBackHomeNavigationAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@fd07cbb]" name="verifyBackHomeNavigationAfterSuccessfulOrder" class="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2"/>
+        <method signature="SwagLabsThankYouPage_TS1.verifyThankYouPageAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@2b4bac49]" name="verifyThankYouPageAfterSuccessfulOrder" class="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1"/>
       </group> <!-- integration -->
-      <group name="ep">
-        <method signature="SwagLabsEmptyLoginPage_TS3.emptyLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyLoginPage_TS3@6ff29830]" name="emptyLoginTest" class="ecom.BITM.SwagLabs.Login.SwagLabsEmptyLoginPage_TS3"/>
-        <method signature="SwagLabsEmptyUsernameLogin_TS4.emptyUsernameLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyUsernameLogin_TS4@6a2b953e]" name="emptyUsernameLoginTest" class="ecom.BITM.SwagLabs.Login.SwagLabsEmptyUsernameLogin_TS4"/>
-        <method signature="SwagLabsInvalidLoginPage_TS2.invalidLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsInvalidLoginPage_TS2@2638011]" name="invalidLoginTest" class="ecom.BITM.SwagLabs.Login.SwagLabsInvalidLoginPage_TS2"/>
-        <method signature="SwagLabsValidLoginPage_TS1.validLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@7a675056]" name="validLoginTest" class="ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1"/>
-      </group> <!-- ep -->
-      <group name="EP">
-        <method signature="SwagLabsEmptyCart_TS4.verifyCheckoutWithEmptyCart()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4@21b2e768]" name="verifyCheckoutWithEmptyCart" class="ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4"/>
-        <method signature="SwagLabsCheckoutValidation_TS1.verifyFirstNameRequired()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" name="verifyFirstNameRequired" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1"/>
-        <method signature="SwagLabsCheckoutValidation_TS1.verifyLastNameRequired()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" name="verifyLastNameRequired" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1"/>
-        <method signature="SwagLabsCheckoutValidation_TS1.verifyPostalCodeRequired()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" name="verifyPostalCodeRequired" class="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1"/>
-      </group> <!-- EP -->
     </groups>
-    <test started-at="2026-10-12T12:14:52 IST" name="Test" finished-at="2026-10-12T12:21:52 IST" duration-ms="419994">
+    <test started-at="2026-10-12T13:49:48 IST" name="System Tests" finished-at="2026-10-12T13:50:38 IST" duration-ms="50537">
       <class name="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@11fc564b]" started-at="2026-10-12T12:21:37 IST" name="beforeClass" finished-at="2026-10-12T12:21:38 IST" duration-ms="1350" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@fd07cbb]" started-at="2026-10-12T13:50:28 IST" name="beforeClass" finished-at="2026-10-12T13:50:30 IST" duration-ms="1186" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1038,14 +243,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@11fc564b]" started-at="2026-10-12T12:21:38 IST" name="beforeMethod" finished-at="2026-10-12T12:21:46 IST" duration-ms="7229" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@fd07cbb]" started-at="2026-10-12T13:50:30 IST" name="beforeMethod" finished-at="2026-10-12T13:50:32 IST" duration-ms="2622" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Swag Labs application launched]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyBackHomeNavigationAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@11fc564b]" started-at="2026-10-12T12:21:46 IST" name="verifyBackHomeNavigationAfterSuccessfulOrder" finished-at="2026-10-12T12:21:51 IST" duration-ms="5431" status="PASS">
+        <test-method signature="verifyBackHomeNavigationAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@fd07cbb]" started-at="2026-10-12T13:50:32 IST" name="verifyBackHomeNavigationAfterSuccessfulOrder" finished-at="2026-10-12T13:50:38 IST" duration-ms="5735" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logging in with valid credentials]]>
@@ -1085,14 +290,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- verifyBackHomeNavigationAfterSuccessfulOrder -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@11fc564b]" started-at="2026-10-12T12:21:51 IST" name="afterMethod" finished-at="2026-10-12T12:21:51 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@fd07cbb]" started-at="2026-10-12T13:50:38 IST" name="afterMethod" finished-at="2026-10-12T13:50:38 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Test method execution completed]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@11fc564b]" started-at="2026-10-12T12:21:51 IST" name="afterClass" finished-at="2026-10-12T12:21:52 IST" duration-ms="544" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2@fd07cbb]" started-at="2026-10-12T13:50:38 IST" name="afterClass" finished-at="2026-10-12T13:50:38 IST" duration-ms="403" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Close the browser]]>
@@ -1100,353 +305,38 @@
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2 -->
-      <class name="ecom.BITM.SwagLabs.Product.SwagLabsProductPageValidation_TS1">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductPageValidation_TS1@313b2ea6]" started-at="2026-10-12T12:16:06 IST" name="beforeClass" finished-at="2026-10-12T12:16:08 IST" duration-ms="1634" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
+      <class name="ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@313b2ea6]" started-at="2026-10-12T13:49:48 IST" name="beforeSuite" finished-at="2026-10-12T13:49:48 IST" duration-ms="20" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
+              <![CDATA[Open database connectivity]]>
             </line>
           </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductPageValidation_TS1@313b2ea6]" started-at="2026-10-12T12:16:08 IST" name="beforeMethod" finished-at="2026-10-12T12:16:15 IST" duration-ms="7414" status="PASS">
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@313b2ea6]" started-at="2026-10-12T13:49:48 IST" name="beforeTest" finished-at="2026-10-12T13:49:48 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Swag Labs application launched]]>
+              <![CDATA[Precondition]]>
             </line>
           </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyProductPageValidation()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductPageValidation_TS1@313b2ea6]" started-at="2026-10-12T12:16:15 IST" name="verifyProductPageValidation" finished-at="2026-10-12T12:16:22 IST" duration-ms="7467" status="PASS">
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@313b2ea6]" started-at="2026-10-12T13:50:38 IST" name="afterTest" finished-at="2026-10-12T13:50:38 IST" duration-ms="0" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Logging in with valid credentials]]>
-            </line>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Verifying Product Page]]>
-            </line>
-            <line>
-              <![CDATA[Product Page displayed successfully]]>
-            </line>
-            <line>
-              <![CDATA[Verifying Product Information]]>
-            </line>
-            <line>
-              <![CDATA[Product: Sauce Labs Backpack | Price: $29.99]]>
-            </line>
-            <line>
-              <![CDATA[Product: Sauce Labs Bike Light | Price: $9.99]]>
-            </line>
-            <line>
-              <![CDATA[Product: Sauce Labs Bolt T-Shirt | Price: $15.99]]>
-            </line>
-            <line>
-              <![CDATA[Product: Sauce Labs Fleece Jacket | Price: $49.99]]>
-            </line>
-            <line>
-              <![CDATA[Product: Sauce Labs Onesie | Price: $7.99]]>
-            </line>
-            <line>
-              <![CDATA[Product: Test.allTheThings() T-Shirt (Red) | Price: $15.99]]>
-            </line>
-            <line>
-              <![CDATA[Product Information verified successfully]]>
-            </line>
-            <line>
-              <![CDATA[Opening Product Details: Sauce Labs Backpack]]>
-            </line>
-            <line>
-              <![CDATA[Product Details opened successfully]]>
-            </line>
-            <line>
-              <![CDATA[Product Page Validation completed successfully]]>
+              <![CDATA[Postcondition]]>
             </line>
           </reporter-output>
-        </test-method> <!-- verifyProductPageValidation -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductPageValidation_TS1@313b2ea6]" started-at="2026-10-12T12:16:22 IST" name="afterMethod" finished-at="2026-10-12T12:16:22 IST" duration-ms="2" status="PASS">
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@313b2ea6]" started-at="2026-10-12T13:50:38 IST" name="afterSuite" finished-at="2026-10-12T13:50:38 IST" duration-ms="0" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Test method execution completed]]>
+              <![CDATA[Close database connectivity]]>
             </line>
           </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductPageValidation_TS1@313b2ea6]" started-at="2026-10-12T12:16:22 IST" name="afterClass" finished-at="2026-10-12T12:16:23 IST" duration-ms="521" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- ecom.BITM.SwagLabs.Product.SwagLabsProductPageValidation_TS1 -->
-      <class name="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" started-at="2026-10-12T12:20:01 IST" name="beforeClass" finished-at="2026-10-12T12:20:02 IST" duration-ms="1426" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" started-at="2026-10-12T12:20:02 IST" name="beforeMethod" finished-at="2026-10-12T12:20:06 IST" duration-ms="3251" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyFirstNameRequired()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" started-at="2026-10-12T12:20:06 IST" name="verifyFirstNameRequired" finished-at="2026-10-12T12:20:11 IST" duration-ms="4837" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Testing checkout without first name]]>
-            </line>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Checkout validation error: Error: First Name is required]]>
-            </line>
-            <line>
-              <![CDATA[First-name validation verified]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyFirstNameRequired -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" started-at="2026-10-12T12:20:11 IST" name="afterMethod" finished-at="2026-10-12T12:20:11 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" started-at="2026-10-12T12:20:11 IST" name="beforeMethod" finished-at="2026-10-12T12:20:13 IST" duration-ms="2097" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyLastNameRequired()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" started-at="2026-10-12T12:20:13 IST" name="verifyLastNameRequired" finished-at="2026-10-12T12:20:18 IST" duration-ms="4941" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Testing checkout without last name]]>
-            </line>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Checkout validation error: Error: Last Name is required]]>
-            </line>
-            <line>
-              <![CDATA[Last-name validation verified]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyLastNameRequired -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" started-at="2026-10-12T12:20:18 IST" name="afterMethod" finished-at="2026-10-12T12:20:18 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" started-at="2026-10-12T12:20:18 IST" name="beforeMethod" finished-at="2026-10-12T12:20:20 IST" duration-ms="2085" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyPostalCodeRequired()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" started-at="2026-10-12T12:20:20 IST" name="verifyPostalCodeRequired" finished-at="2026-10-12T12:20:24 IST" duration-ms="4759" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Testing checkout without postal code]]>
-            </line>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Checkout validation error: Error: Postal Code is required]]>
-            </line>
-            <line>
-              <![CDATA[Postal-code validation verified]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyPostalCodeRequired -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" started-at="2026-10-12T12:20:24 IST" name="afterMethod" finished-at="2026-10-12T12:20:24 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1@5609159b]" started-at="2026-10-12T12:20:24 IST" name="afterClass" finished-at="2026-10-12T12:20:25 IST" duration-ms="613" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutValidation_TS1 -->
-      <class name="ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" started-at="2026-10-12T12:20:53 IST" name="beforeClass" finished-at="2026-10-12T12:20:54 IST" duration-ms="1150" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" started-at="2026-10-12T12:20:54 IST" name="beforeMethod" finished-at="2026-10-12T12:20:57 IST" duration-ms="3181" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyFooterSocialLinksDisplayed()[pri:1, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" started-at="2026-10-12T12:20:57 IST" name="verifyFooterSocialLinksDisplayed" finished-at="2026-10-12T12:21:01 IST" duration-ms="3713" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[All three social media links are displayed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyFooterSocialLinksDisplayed -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" started-at="2026-10-12T12:21:01 IST" name="afterMethod" finished-at="2026-10-12T12:21:01 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" started-at="2026-10-12T12:21:01 IST" name="beforeMethod" finished-at="2026-10-12T12:21:03 IST" duration-ms="2495" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifySocialMediaLinkURLs()[pri:2, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" started-at="2026-10-12T12:21:03 IST" name="verifySocialMediaLinkURLs" finished-at="2026-10-12T12:21:07 IST" duration-ms="3617" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[X/Twitter URL: https://x.com/saucelabs]]>
-            </line>
-            <line>
-              <![CDATA[Facebook URL: https://www.facebook.com/saucelabs]]>
-            </line>
-            <line>
-              <![CDATA[LinkedIn URL: https://www.linkedin.com/company/sauce-labs/]]>
-            </line>
-            <line>
-              <![CDATA[Social media URLs validated successfully]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifySocialMediaLinkURLs -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" started-at="2026-10-12T12:21:07 IST" name="afterMethod" finished-at="2026-10-12T12:21:07 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" started-at="2026-10-12T12:21:07 IST" name="beforeMethod" finished-at="2026-10-12T12:21:09 IST" duration-ms="2107" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifySocialMediaLinkCount()[pri:3, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" started-at="2026-10-12T12:21:09 IST" name="verifySocialMediaLinkCount" finished-at="2026-10-12T12:21:12 IST" duration-ms="3484" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Social media link count: 3]]>
-            </line>
-            <line>
-              <![CDATA[Social media link count validated]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifySocialMediaLinkCount -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" started-at="2026-10-12T12:21:12 IST" name="afterMethod" finished-at="2026-10-12T12:21:12 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" started-at="2026-10-12T12:21:12 IST" name="beforeMethod" finished-at="2026-10-12T12:21:15 IST" duration-ms="2095" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyXLinkNavigation()[pri:4, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" started-at="2026-10-12T12:21:15 IST" name="verifyXLinkNavigation" finished-at="2026-10-12T12:21:25 IST" duration-ms="10789" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Expected X URL: https://x.com/saucelabs]]>
-            </line>
-            <line>
-              <![CDATA[Actual URL after click: https://x.com/saucelabs]]>
-            </line>
-            <line>
-              <![CDATA[X link click and navigation verified successfully]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyXLinkNavigation -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" started-at="2026-10-12T12:21:25 IST" name="afterMethod" finished-at="2026-10-12T12:21:25 IST" duration-ms="16" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1@68567e20]" started-at="2026-10-12T12:21:25 IST" name="afterClass" finished-at="2026-10-12T12:21:26 IST" duration-ms="959" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1 -->
+        </test-method> <!-- afterSuite -->
+      </class> <!-- ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1 -->
       <class name="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@76ed1b7c]" started-at="2026-10-12T12:21:26 IST" name="beforeClass" finished-at="2026-10-12T12:21:28 IST" duration-ms="1443" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@2b4bac49]" started-at="2026-10-12T13:50:18 IST" name="beforeClass" finished-at="2026-10-12T13:50:19 IST" duration-ms="1183" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1463,14 +353,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@76ed1b7c]" started-at="2026-10-12T12:21:28 IST" name="beforeMethod" finished-at="2026-10-12T12:21:31 IST" duration-ms="3598" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@2b4bac49]" started-at="2026-10-12T13:50:19 IST" name="beforeMethod" finished-at="2026-10-12T13:50:23 IST" duration-ms="3306" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Swag Labs application launched]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyThankYouPageAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@76ed1b7c]" started-at="2026-10-12T12:21:31 IST" name="verifyThankYouPageAfterSuccessfulOrder" finished-at="2026-10-12T12:21:37 IST" duration-ms="5200" status="PASS">
+        <test-method signature="verifyThankYouPageAfterSuccessfulOrder()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@2b4bac49]" started-at="2026-10-12T13:50:23 IST" name="verifyThankYouPageAfterSuccessfulOrder" finished-at="2026-10-12T13:50:28 IST" duration-ms="5266" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logging in with valid credentials]]>
@@ -1488,18 +378,21 @@
               <![CDATA[Finishing the order]]>
             </line>
             <line>
+              <![CDATA[Verifying order completion image]]>
+            </line>
+            <line>
               <![CDATA[Thank-you page verified successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- verifyThankYouPageAfterSuccessfulOrder -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@76ed1b7c]" started-at="2026-10-12T12:21:37 IST" name="afterMethod" finished-at="2026-10-12T12:21:37 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@2b4bac49]" started-at="2026-10-12T13:50:28 IST" name="afterMethod" finished-at="2026-10-12T13:50:28 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Test method execution completed]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@76ed1b7c]" started-at="2026-10-12T12:21:37 IST" name="afterClass" finished-at="2026-10-12T12:21:37 IST" duration-ms="476" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1@2b4bac49]" started-at="2026-10-12T13:50:28 IST" name="afterClass" finished-at="2026-10-12T13:50:28 IST" duration-ms="395" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Close the browser]]>
@@ -1507,76 +400,8 @@
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1 -->
-      <class name="ecom.BITM.SwagLabs.CartPage.SwagLabsCartPersistence_TS5">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsCartPersistence_TS5@57250572]" started-at="2026-10-12T12:19:51 IST" name="beforeClass" finished-at="2026-10-12T12:19:52 IST" duration-ms="1466" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsCartPersistence_TS5@57250572]" started-at="2026-10-12T12:19:52 IST" name="beforeMethod" finished-at="2026-10-12T12:19:56 IST" duration-ms="3717" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyCartPersistenceDuringNavigation()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsCartPersistence_TS5@57250572]" started-at="2026-10-12T12:19:56 IST" name="verifyCartPersistenceDuringNavigation" finished-at="2026-10-12T12:20:00 IST" duration-ms="4473" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Logging in with valid credentials]]>
-            </line>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Selected product: Sauce Labs Backpack]]>
-            </line>
-            <line>
-              <![CDATA[Adding product to cart]]>
-            </line>
-            <line>
-              <![CDATA[Opening cart for the first time]]>
-            </line>
-            <line>
-              <![CDATA[Returning to Products page]]>
-            </line>
-            <line>
-              <![CDATA[Opening cart for the second time]]>
-            </line>
-            <line>
-              <![CDATA[Cart persistence verified successfully]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyCartPersistenceDuringNavigation -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsCartPersistence_TS5@57250572]" started-at="2026-10-12T12:20:00 IST" name="afterMethod" finished-at="2026-10-12T12:20:00 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsCartPersistence_TS5@57250572]" started-at="2026-10-12T12:20:00 IST" name="afterClass" finished-at="2026-10-12T12:20:01 IST" duration-ms="577" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- ecom.BITM.SwagLabs.CartPage.SwagLabsCartPersistence_TS5 -->
       <class name="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@17a7f733]" started-at="2026-10-12T12:20:43 IST" name="beforeClass" finished-at="2026-10-12T12:20:45 IST" duration-ms="1310" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@32910148]" started-at="2026-10-12T13:50:08 IST" name="beforeClass" finished-at="2026-10-12T13:50:09 IST" duration-ms="1698" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1593,14 +418,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@17a7f733]" started-at="2026-10-12T12:20:45 IST" name="beforeMethod" finished-at="2026-10-12T12:20:48 IST" duration-ms="2957" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@32910148]" started-at="2026-10-12T13:50:09 IST" name="beforeMethod" finished-at="2026-10-12T13:50:13 IST" duration-ms="3352" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Swag Labs application launched]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifySuccessfulOrderCompletion()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@17a7f733]" started-at="2026-10-12T12:20:48 IST" name="verifySuccessfulOrderCompletion" finished-at="2026-10-12T12:20:52 IST" duration-ms="4581" status="PASS">
+        <test-method signature="verifySuccessfulOrderCompletion()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@32910148]" started-at="2026-10-12T13:50:13 IST" name="verifySuccessfulOrderCompletion" finished-at="2026-10-12T13:50:18 IST" duration-ms="5254" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logging in with valid credentials]]>
@@ -1622,14 +447,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- verifySuccessfulOrderCompletion -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@17a7f733]" started-at="2026-10-12T12:20:52 IST" name="afterMethod" finished-at="2026-10-12T12:20:52 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@32910148]" started-at="2026-10-12T13:50:18 IST" name="afterMethod" finished-at="2026-10-12T13:50:18 IST" duration-ms="0" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Test method execution completed]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@17a7f733]" started-at="2026-10-12T12:20:52 IST" name="afterClass" finished-at="2026-10-12T12:20:53 IST" duration-ms="439" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3@32910148]" started-at="2026-10-12T13:50:18 IST" name="afterClass" finished-at="2026-10-12T13:50:18 IST" duration-ms="354" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Close the browser]]>
@@ -1638,7 +463,7 @@
         </test-method> <!-- afterClass -->
       </class> <!-- ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3 -->
       <class name="ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@175b9425]" started-at="2026-10-12T12:17:42 IST" name="beforeClass" finished-at="2026-10-12T12:17:43 IST" duration-ms="1365" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@68567e20]" started-at="2026-10-12T13:49:56 IST" name="beforeClass" finished-at="2026-10-12T13:49:58 IST" duration-ms="1645" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1655,14 +480,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@175b9425]" started-at="2026-10-12T12:17:43 IST" name="beforeMethod" finished-at="2026-10-12T12:17:47 IST" duration-ms="3614" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@68567e20]" started-at="2026-10-12T13:49:58 IST" name="beforeMethod" finished-at="2026-10-12T13:50:01 IST" duration-ms="3022" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Swag Labs application launched]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyInvalidProductDetails()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@175b9425]" started-at="2026-10-12T12:17:47 IST" name="verifyInvalidProductDetails" finished-at="2026-10-12T12:17:52 IST" duration-ms="5617" status="PASS">
+        <test-method signature="verifyInvalidProductDetails()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@68567e20]" started-at="2026-10-12T13:50:01 IST" name="verifyInvalidProductDetails" finished-at="2026-10-12T13:50:07 IST" duration-ms="5944" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logging in with valid credentials]]>
@@ -1684,14 +509,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- verifyInvalidProductDetails -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@175b9425]" started-at="2026-10-12T12:17:52 IST" name="afterMethod" finished-at="2026-10-12T12:17:52 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@68567e20]" started-at="2026-10-12T13:50:07 IST" name="afterMethod" finished-at="2026-10-12T13:50:07 IST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Test method execution completed]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@175b9425]" started-at="2026-10-12T12:17:52 IST" name="afterClass" finished-at="2026-10-12T12:17:53 IST" duration-ms="710" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6@68567e20]" started-at="2026-10-12T13:50:07 IST" name="afterClass" finished-at="2026-10-12T13:50:08 IST" duration-ms="527" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Close the browser]]>
@@ -1699,283 +524,8 @@
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- ecom.BITM.SwagLabs.Product.SwagLabsInvalidProductDetails_TS6 -->
-      <class name="ecom.BITM.SwagLabs.Login.SwagLabsInvalidLoginPage_TS2">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsInvalidLoginPage_TS2@2638011]" started-at="2026-10-12T12:15:04 IST" name="beforeClass" finished-at="2026-10-12T12:15:06 IST" duration-ms="1477" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsInvalidLoginPage_TS2@2638011]" started-at="2026-10-12T12:15:06 IST" name="beforeMethod" finished-at="2026-10-12T12:15:14 IST" duration-ms="8018" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="invalidLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsInvalidLoginPage_TS2@2638011]" started-at="2026-10-12T12:15:14 IST" name="invalidLoginTest" finished-at="2026-10-12T12:15:18 IST" duration-ms="4766" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Entering invalid username]]>
-            </line>
-            <line>
-              <![CDATA[Entering invalid password]]>
-            </line>
-            <line>
-              <![CDATA[Clicking Login button]]>
-            </line>
-            <line>
-              <![CDATA[Error message displayed: Epic sadface: Username and password do not match any user in this service]]>
-            </line>
-            <line>
-              <![CDATA[Invalid login validation successful]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- invalidLoginTest -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsInvalidLoginPage_TS2@2638011]" started-at="2026-10-12T12:15:18 IST" name="afterMethod" finished-at="2026-10-12T12:15:18 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsInvalidLoginPage_TS2@2638011]" started-at="2026-10-12T12:15:18 IST" name="afterClass" finished-at="2026-10-12T12:15:19 IST" duration-ms="658" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- ecom.BITM.SwagLabs.Login.SwagLabsInvalidLoginPage_TS2 -->
-      <class name="ecom.BITM.SwagLabs.Login.SwagLabsEmptyLoginPage_TS3">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyLoginPage_TS3@6ff29830]" started-at="2026-10-12T12:15:19 IST" name="beforeClass" finished-at="2026-10-12T12:15:21 IST" duration-ms="1698" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyLoginPage_TS3@6ff29830]" started-at="2026-10-12T12:15:21 IST" name="beforeMethod" finished-at="2026-10-12T12:15:30 IST" duration-ms="8959" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="emptyLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyLoginPage_TS3@6ff29830]" started-at="2026-10-12T12:15:30 IST" name="emptyLoginTest" finished-at="2026-10-12T12:15:32 IST" duration-ms="2534" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Entering empty username]]>
-            </line>
-            <line>
-              <![CDATA[Entering empty password]]>
-            </line>
-            <line>
-              <![CDATA[Clicking Login button]]>
-            </line>
-            <line>
-              <![CDATA[Error message displayed: Epic sadface: Username is required]]>
-            </line>
-            <line>
-              <![CDATA[Empty login validation successful]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- emptyLoginTest -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyLoginPage_TS3@6ff29830]" started-at="2026-10-12T12:15:32 IST" name="afterMethod" finished-at="2026-10-12T12:15:32 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyLoginPage_TS3@6ff29830]" started-at="2026-10-12T12:15:32 IST" name="afterClass" finished-at="2026-10-12T12:15:33 IST" duration-ms="661" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- ecom.BITM.SwagLabs.Login.SwagLabsEmptyLoginPage_TS3 -->
-      <class name="ecom.BITM.SwagLabs.Login.SwagLabsEmptyUsernameLogin_TS4">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyUsernameLogin_TS4@6a2b953e]" started-at="2026-10-12T12:15:33 IST" name="beforeClass" finished-at="2026-10-12T12:15:34 IST" duration-ms="1395" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyUsernameLogin_TS4@6a2b953e]" started-at="2026-10-12T12:15:34 IST" name="beforeMethod" finished-at="2026-10-12T12:16:03 IST" duration-ms="28340" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="emptyUsernameLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyUsernameLogin_TS4@6a2b953e]" started-at="2026-10-12T12:16:03 IST" name="emptyUsernameLoginTest" finished-at="2026-10-12T12:16:05 IST" duration-ms="2580" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Entering empty username]]>
-            </line>
-            <line>
-              <![CDATA[Entering valid password]]>
-            </line>
-            <line>
-              <![CDATA[Clicking Login button]]>
-            </line>
-            <line>
-              <![CDATA[Error message displayed: Epic sadface: Username is required]]>
-            </line>
-            <line>
-              <![CDATA[Empty username validation successful]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- emptyUsernameLoginTest -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyUsernameLogin_TS4@6a2b953e]" started-at="2026-10-12T12:16:05 IST" name="afterMethod" finished-at="2026-10-12T12:16:05 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsEmptyUsernameLogin_TS4@6a2b953e]" started-at="2026-10-12T12:16:05 IST" name="afterClass" finished-at="2026-10-12T12:16:06 IST" duration-ms="752" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- ecom.BITM.SwagLabs.Login.SwagLabsEmptyUsernameLogin_TS4 -->
-      <class name="ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" started-at="2026-10-12T12:18:07 IST" name="beforeClass" finished-at="2026-10-12T12:18:09 IST" duration-ms="1565" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" started-at="2026-10-12T12:18:09 IST" name="beforeMethod" finished-at="2026-10-12T12:18:13 IST" duration-ms="4458" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyCartBadgeAfterRemovingLastProduct()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" started-at="2026-10-12T12:18:13 IST" name="verifyCartBadgeAfterRemovingLastProduct" finished-at="2026-10-12T12:18:38 IST" duration-ms="24133" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Cart badge verified after removal]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyCartBadgeAfterRemovingLastProduct -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" started-at="2026-10-12T12:18:38 IST" name="afterMethod" finished-at="2026-10-12T12:18:38 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" started-at="2026-10-12T12:18:38 IST" name="beforeMethod" finished-at="2026-10-12T12:18:40 IST" duration-ms="2128" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyProductDisplayedBeforeRemoval()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" started-at="2026-10-12T12:18:40 IST" name="verifyProductDisplayedBeforeRemoval" finished-at="2026-10-12T12:18:44 IST" duration-ms="3829" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Product verified before removal]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyProductDisplayedBeforeRemoval -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" started-at="2026-10-12T12:18:44 IST" name="afterMethod" finished-at="2026-10-12T12:18:44 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" started-at="2026-10-12T12:18:44 IST" name="beforeMethod" finished-at="2026-10-12T12:18:46 IST" duration-ms="2088" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyProductRemovedFromCart()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" started-at="2026-10-12T12:18:46 IST" name="verifyProductRemovedFromCart" finished-at="2026-10-12T12:19:10 IST" duration-ms="24076" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Product removed successfully]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyProductRemovedFromCart -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" started-at="2026-10-12T12:19:10 IST" name="afterMethod" finished-at="2026-10-12T12:19:10 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2@610f7aa]" started-at="2026-10-12T12:19:10 IST" name="afterClass" finished-at="2026-10-12T12:19:11 IST" duration-ms="845" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- ecom.BITM.SwagLabs.CartPage.SwagLabsRemoveProductFromCart_TS2 -->
       <class name="ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@623a8092]" started-at="2026-10-12T12:17:19 IST" name="beforeClass" finished-at="2026-10-12T12:17:20 IST" duration-ms="1435" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@2118cddf]" started-at="2026-10-12T13:49:48 IST" name="beforeClass" finished-at="2026-10-12T13:49:50 IST" duration-ms="2210" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1992,14 +542,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@623a8092]" started-at="2026-10-12T12:17:20 IST" name="beforeMethod" finished-at="2026-10-12T12:17:28 IST" duration-ms="7565" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@2118cddf]" started-at="2026-10-12T13:49:50 IST" name="beforeMethod" finished-at="2026-10-12T13:49:53 IST" duration-ms="3236" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Swag Labs application launched]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyUnauthorizedProductPageAccess()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@623a8092]" started-at="2026-10-12T12:17:28 IST" name="verifyUnauthorizedProductPageAccess" finished-at="2026-10-12T12:17:30 IST" duration-ms="2794" status="PASS">
+        <test-method signature="verifyUnauthorizedProductPageAccess()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@2118cddf]" started-at="2026-10-12T13:49:53 IST" name="verifyUnauthorizedProductPageAccess" finished-at="2026-10-12T13:49:56 IST" duration-ms="2521" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Attempting to access Product Page without login]]>
@@ -2015,14 +565,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- verifyUnauthorizedProductPageAccess -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@623a8092]" started-at="2026-10-12T12:17:30 IST" name="afterMethod" finished-at="2026-10-12T12:17:30 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@2118cddf]" started-at="2026-10-12T13:49:56 IST" name="afterMethod" finished-at="2026-10-12T13:49:56 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Test method execution completed]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@623a8092]" started-at="2026-10-12T12:17:30 IST" name="afterClass" finished-at="2026-10-12T12:17:31 IST" duration-ms="681" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4@2118cddf]" started-at="2026-10-12T13:49:56 IST" name="afterClass" finished-at="2026-10-12T13:49:56 IST" duration-ms="565" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Close the browser]]>
@@ -2030,695 +580,6 @@
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- ecom.BITM.SwagLabs.Product.SwagLabsUnauthorizedProductPage_TS4 -->
-      <class name="ecom.BITM.SwagLabs.Product.SwagLabsMultipleProductsToCart_TS5">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsMultipleProductsToCart_TS5@a1cdc6d]" started-at="2026-10-12T12:17:31 IST" name="beforeClass" finished-at="2026-10-12T12:17:32 IST" duration-ms="1465" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsMultipleProductsToCart_TS5@a1cdc6d]" started-at="2026-10-12T12:17:32 IST" name="beforeMethod" finished-at="2026-10-12T12:17:36 IST" duration-ms="3473" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyMultipleProductsAddedToCart()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsMultipleProductsToCart_TS5@a1cdc6d]" started-at="2026-10-12T12:17:36 IST" name="verifyMultipleProductsAddedToCart" finished-at="2026-10-12T12:17:41 IST" duration-ms="5324" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Logging in with valid credentials]]>
-            </line>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[First selected product: Sauce Labs Backpack]]>
-            </line>
-            <line>
-              <![CDATA[Second selected product: Sauce Labs Bike Light]]>
-            </line>
-            <line>
-              <![CDATA[First product added to cart]]>
-            </line>
-            <line>
-              <![CDATA[Second product added to cart]]>
-            </line>
-            <line>
-              <![CDATA[Cart badge correctly displays 2]]>
-            </line>
-            <line>
-              <![CDATA[Shopping Cart opened successfully]]>
-            </line>
-            <line>
-              <![CDATA[Two products are present in the cart]]>
-            </line>
-            <line>
-              <![CDATA[Cart Product: Sauce Labs Backpack]]>
-            </line>
-            <line>
-              <![CDATA[Cart Product: Sauce Labs Bike Light]]>
-            </line>
-            <line>
-              <![CDATA[Both selected products are correctly synchronized with Cart]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyMultipleProductsAddedToCart -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsMultipleProductsToCart_TS5@a1cdc6d]" started-at="2026-10-12T12:17:41 IST" name="afterMethod" finished-at="2026-10-12T12:17:41 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsMultipleProductsToCart_TS5@a1cdc6d]" started-at="2026-10-12T12:17:41 IST" name="afterClass" finished-at="2026-10-12T12:17:42 IST" duration-ms="572" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- ecom.BITM.SwagLabs.Product.SwagLabsMultipleProductsToCart_TS5 -->
-      <class name="ecom.BITM.SwagLabs.CartPage.SwagLabsCartContents_TS3">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsCartContents_TS3@6a03bcb1]" started-at="2026-10-12T12:19:11 IST" name="beforeClass" finished-at="2026-10-12T12:19:12 IST" duration-ms="1381" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsCartContents_TS3@6a03bcb1]" started-at="2026-10-12T12:19:12 IST" name="beforeMethod" finished-at="2026-10-12T12:19:15 IST" duration-ms="3472" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyMultipleProductsInCart()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsCartContents_TS3@6a03bcb1]" started-at="2026-10-12T12:19:15 IST" name="verifyMultipleProductsInCart" finished-at="2026-10-12T12:19:20 IST" duration-ms="4097" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Adding two products to cart]]>
-            </line>
-            <line>
-              <![CDATA[Both products are displayed in the cart: [Sauce Labs Backpack, Sauce Labs Bike Light]]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyMultipleProductsInCart -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsCartContents_TS3@6a03bcb1]" started-at="2026-10-12T12:19:20 IST" name="afterMethod" finished-at="2026-10-12T12:19:20 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsCartContents_TS3@6a03bcb1]" started-at="2026-10-12T12:19:20 IST" name="afterClass" finished-at="2026-10-12T12:19:20 IST" duration-ms="462" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- ecom.BITM.SwagLabs.CartPage.SwagLabsCartContents_TS3 -->
-      <class name="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2@2118cddf]" started-at="2026-10-12T12:20:25 IST" name="beforeClass" finished-at="2026-10-12T12:20:26 IST" duration-ms="1317" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2@2118cddf]" started-at="2026-10-12T12:20:26 IST" name="beforeMethod" finished-at="2026-10-12T12:20:30 IST" duration-ms="4113" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyCancelCheckoutReturnsToProducts()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2@2118cddf]" started-at="2026-10-12T12:20:30 IST" name="verifyCancelCheckoutReturnsToProducts" finished-at="2026-10-12T12:20:36 IST" duration-ms="5107" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Opening checkout overview before cancellation]]>
-            </line>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Checkout cancellation verified]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyCancelCheckoutReturnsToProducts -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2@2118cddf]" started-at="2026-10-12T12:20:36 IST" name="afterMethod" finished-at="2026-10-12T12:20:36 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2@2118cddf]" started-at="2026-10-12T12:20:36 IST" name="beforeMethod" finished-at="2026-10-12T12:20:38 IST" duration-ms="2080" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyCheckoutOverviewDetails()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2@2118cddf]" started-at="2026-10-12T12:20:38 IST" name="verifyCheckoutOverviewDetails" finished-at="2026-10-12T12:20:43 IST" duration-ms="5148" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Opening checkout overview]]>
-            </line>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Checkout overview verified successfully]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyCheckoutOverviewDetails -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2@2118cddf]" started-at="2026-10-12T12:20:43 IST" name="afterMethod" finished-at="2026-10-12T12:20:43 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2@2118cddf]" started-at="2026-10-12T12:20:43 IST" name="afterClass" finished-at="2026-10-12T12:20:43 IST" duration-ms="609" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2 -->
-      <class name="ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4@21b2e768]" started-at="2026-10-12T12:19:20 IST" name="beforeClass" finished-at="2026-10-12T12:19:22 IST" duration-ms="1508" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4@21b2e768]" started-at="2026-10-12T12:19:22 IST" name="beforeMethod" finished-at="2026-10-12T12:19:26 IST" duration-ms="4310" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyCheckoutWithEmptyCart()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4@21b2e768]" started-at="2026-10-12T12:19:26 IST" name="verifyCheckoutWithEmptyCart" finished-at="2026-10-12T12:19:50 IST" duration-ms="24113" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Logging in with valid credentials]]>
-            </line>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Opening the empty shopping cart]]>
-            </line>
-            <line>
-              <![CDATA[Verifying checkout behavior for an empty cart]]>
-            </line>
-            <line>
-              <![CDATA[Empty-cart checkout behavior verified]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyCheckoutWithEmptyCart -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4@21b2e768]" started-at="2026-10-12T12:19:50 IST" name="afterMethod" finished-at="2026-10-12T12:19:50 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4@21b2e768]" started-at="2026-10-12T12:19:50 IST" name="afterClass" finished-at="2026-10-12T12:19:51 IST" duration-ms="779" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4 -->
-      <class name="ecom.BITM.SwagLabs.CartPage.SwagLabsAddProductToCart_TS1">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsAddProductToCart_TS1@3098cf3b]" started-at="2026-10-12T12:17:53 IST" name="beforeClass" finished-at="2026-10-12T12:17:55 IST" duration-ms="1571" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsAddProductToCart_TS1@3098cf3b]" started-at="2026-10-12T12:17:55 IST" name="beforeMethod" finished-at="2026-10-12T12:18:03 IST" duration-ms="8218" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyProductAddedToCart()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsAddProductToCart_TS1@3098cf3b]" started-at="2026-10-12T12:18:03 IST" name="verifyProductAddedToCart" finished-at="2026-10-12T12:18:07 IST" duration-ms="3992" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Logging in with valid credentials]]>
-            </line>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Adding the first product to cart]]>
-            </line>
-            <line>
-              <![CDATA[Opening the shopping cart]]>
-            </line>
-            <line>
-              <![CDATA[Product added and verified successfully]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyProductAddedToCart -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsAddProductToCart_TS1@3098cf3b]" started-at="2026-10-12T12:18:07 IST" name="afterMethod" finished-at="2026-10-12T12:18:07 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.CartPage.SwagLabsAddProductToCart_TS1@3098cf3b]" started-at="2026-10-12T12:18:07 IST" name="afterClass" finished-at="2026-10-12T12:18:07 IST" duration-ms="520" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- ecom.BITM.SwagLabs.CartPage.SwagLabsAddProductToCart_TS1 -->
-      <class name="ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" started-at="2026-10-12T12:16:50 IST" name="beforeClass" finished-at="2026-10-12T12:16:52 IST" duration-ms="1488" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" started-at="2026-10-12T12:16:52 IST" name="beforeMethod" finished-at="2026-10-12T12:16:56 IST" duration-ms="3923" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyProductDetailsBeforeAddingToCart()[pri:1, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" started-at="2026-10-12T12:16:56 IST" name="verifyProductDetailsBeforeAddingToCart" finished-at="2026-10-12T12:16:59 IST" duration-ms="3865" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Product name: Sauce Labs Backpack]]>
-            </line>
-            <line>
-              <![CDATA[Product price: $29.99]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyProductDetailsBeforeAddingToCart -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" started-at="2026-10-12T12:16:59 IST" name="afterMethod" finished-at="2026-10-12T12:16:59 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" started-at="2026-10-12T12:16:59 IST" name="beforeMethod" finished-at="2026-10-12T12:17:01 IST" duration-ms="2090" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyProductAddedToCartBadge()[pri:2, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" started-at="2026-10-12T12:17:01 IST" name="verifyProductAddedToCartBadge" finished-at="2026-10-12T12:17:05 IST" duration-ms="3744" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Cart badge count: 1]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyProductAddedToCartBadge -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" started-at="2026-10-12T12:17:05 IST" name="afterMethod" finished-at="2026-10-12T12:17:05 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" started-at="2026-10-12T12:17:05 IST" name="beforeMethod" finished-at="2026-10-12T12:17:07 IST" duration-ms="2100" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyProductDisplayedInCart()[pri:3, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" started-at="2026-10-12T12:17:07 IST" name="verifyProductDisplayedInCart" finished-at="2026-10-12T12:17:11 IST" duration-ms="4134" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Expected product name: Sauce Labs Backpack]]>
-            </line>
-            <line>
-              <![CDATA[Cart badge count: 1]]>
-            </line>
-            <line>
-              <![CDATA[Opening shopping cart]]>
-            </line>
-            <line>
-              <![CDATA[Current URL: https://www.saucedemo.com/cart.html]]>
-            </line>
-            <line>
-              <![CDATA[Cart item count: 1]]>
-            </line>
-            <line>
-              <![CDATA[Product name in cart: Sauce Labs Backpack]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyProductDisplayedInCart -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" started-at="2026-10-12T12:17:11 IST" name="afterMethod" finished-at="2026-10-12T12:17:11 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" started-at="2026-10-12T12:17:11 IST" name="beforeMethod" finished-at="2026-10-12T12:17:14 IST" duration-ms="2062" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyProductPriceInCart()[pri:4, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" started-at="2026-10-12T12:17:14 IST" name="verifyProductPriceInCart" finished-at="2026-10-12T12:17:18 IST" duration-ms="4019" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Expected product price: $29.99]]>
-            </line>
-            <line>
-              <![CDATA[Product price in cart: $29.99]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyProductPriceInCart -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" started-at="2026-10-12T12:17:18 IST" name="afterMethod" finished-at="2026-10-12T12:17:18 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3@548e6d58]" started-at="2026-10-12T12:17:18 IST" name="afterClass" finished-at="2026-10-12T12:17:19 IST" duration-ms="950" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3 -->
-      <class name="ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@7a675056]" started-at="2026-10-12T12:14:52 IST" name="beforeSuite" finished-at="2026-10-12T12:14:52 IST" duration-ms="27" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Open database connectivity]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeSuite -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@7a675056]" started-at="2026-10-12T12:14:52 IST" name="beforeTest" finished-at="2026-10-12T12:14:52 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Precondition]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@7a675056]" started-at="2026-10-12T12:14:52 IST" name="beforeClass" finished-at="2026-10-12T12:14:54 IST" duration-ms="2305" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@7a675056]" started-at="2026-10-12T12:14:54 IST" name="beforeMethod" finished-at="2026-10-12T12:15:00 IST" duration-ms="5558" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="validLoginTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@7a675056]" started-at="2026-10-12T12:15:00 IST" name="validLoginTest" finished-at="2026-10-12T12:15:03 IST" duration-ms="3783" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Starting valid login test]]>
-            </line>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Valid Login Successful - Product page displayed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- validLoginTest -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@7a675056]" started-at="2026-10-12T12:15:03 IST" name="afterMethod" finished-at="2026-10-12T12:15:03 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@7a675056]" started-at="2026-10-12T12:15:03 IST" name="afterClass" finished-at="2026-10-12T12:15:04 IST" duration-ms="690" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@7a675056]" started-at="2026-10-12T12:21:52 IST" name="afterTest" finished-at="2026-10-12T12:21:52 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Postcondition]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="afterSuite()[pri:0, instance:ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1@7a675056]" started-at="2026-10-12T12:21:52 IST" name="afterSuite" finished-at="2026-10-12T12:21:52 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close database connectivity]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterSuite -->
-      </class> <!-- ecom.BITM.SwagLabs.Login.SwagLabsValidLoginPage_TS1 -->
-      <class name="ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" started-at="2026-10-12T12:16:23 IST" name="beforeClass" finished-at="2026-10-12T12:16:24 IST" duration-ms="1442" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Requested browser: chrome]]>
-            </line>
-            <line>
-              <![CDATA[Browser launched successfully: ChromeDriver]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" started-at="2026-10-12T12:16:24 IST" name="beforeMethod" finished-at="2026-10-12T12:16:28 IST" duration-ms="3162" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyProductSortingNameAToZ()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" started-at="2026-10-12T12:16:28 IST" name="verifyProductSortingNameAToZ" finished-at="2026-10-12T12:16:31 IST" duration-ms="3750" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Logging in with valid credentials]]>
-            </line>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Product sorting A-Z verified successfully]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyProductSortingNameAToZ -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" started-at="2026-10-12T12:16:31 IST" name="afterMethod" finished-at="2026-10-12T12:16:31 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" started-at="2026-10-12T12:16:31 IST" name="beforeMethod" finished-at="2026-10-12T12:16:33 IST" duration-ms="2062" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyProductSortingNameZToA()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" started-at="2026-10-12T12:16:33 IST" name="verifyProductSortingNameZToA" finished-at="2026-10-12T12:16:37 IST" duration-ms="3957" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Logging in with valid credentials]]>
-            </line>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Product sorting Z-A verified successfully]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyProductSortingNameZToA -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" started-at="2026-10-12T12:16:37 IST" name="afterMethod" finished-at="2026-10-12T12:16:37 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" started-at="2026-10-12T12:16:37 IST" name="beforeMethod" finished-at="2026-10-12T12:16:39 IST" duration-ms="2102" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyProductSortingPriceHighToLow()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" started-at="2026-10-12T12:16:39 IST" name="verifyProductSortingPriceHighToLow" finished-at="2026-10-12T12:16:43 IST" duration-ms="3799" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Logging in with valid credentials]]>
-            </line>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Price high-to-low sorting verified successfully]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyProductSortingPriceHighToLow -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" started-at="2026-10-12T12:16:43 IST" name="afterMethod" finished-at="2026-10-12T12:16:43 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" started-at="2026-10-12T12:16:43 IST" name="beforeMethod" finished-at="2026-10-12T12:16:45 IST" duration-ms="2106" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Swag Labs application launched]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyProductSortingPriceLowToHigh()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" started-at="2026-10-12T12:16:45 IST" name="verifyProductSortingPriceLowToHigh" finished-at="2026-10-12T12:16:49 IST" duration-ms="3875" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Logging in with valid credentials]]>
-            </line>
-            <line>
-              <![CDATA[Login successful]]>
-            </line>
-            <line>
-              <![CDATA[Price low-to-high sorting verified successfully]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyProductSortingPriceLowToHigh -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" started-at="2026-10-12T12:16:49 IST" name="afterMethod" finished-at="2026-10-12T12:16:49 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Test method execution completed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2@2f465398]" started-at="2026-10-12T12:16:49 IST" name="afterClass" finished-at="2026-10-12T12:16:50 IST" duration-ms="853" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Close the browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- ecom.BITM.SwagLabs.Product.SwagLabsProductSorting_TS2 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- System Tests -->
+  </suite> <!-- System Suite -->
 </testng-results>

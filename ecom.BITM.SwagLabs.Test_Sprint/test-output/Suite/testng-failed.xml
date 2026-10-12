@@ -3,35 +3,19 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="ecom.BITM.SwagLabs.Purchase.SwagLabsRemoveProductFromCart_TS2">
+      <class name="ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4">
         <methods>
+          <include name="verifyCheckoutWithEmptyCart"/>
           <include name="beforeTest"/>
           <include name="beforeMethod"/>
           <include name="beforeSuite"/>
-          <include name="afterClass"/>
-          <include name="verifyProductRemovedFromCart"/>
-          <include name="afterTest"/>
-          <include name="afterMethod"/>
-          <include name="verifyCartBadgeAfterRemovingProduct"/>
-          <include name="beforeClass"/>
-          <include name="verifyProductDisplayedBeforeRemoval"/>
-          <include name="afterSuite"/>
-        </methods>
-      </class> <!-- ecom.BITM.SwagLabs.Purchase.SwagLabsRemoveProductFromCart_TS2 -->
-      <class name="ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3">
-        <methods>
-          <include name="verifyProductDisplayedInCart"/>
-          <include name="beforeTest"/>
-          <include name="beforeMethod"/>
-          <include name="beforeSuite"/>
-          <include name="verifyProductPriceInCart"/>
           <include name="afterClass"/>
           <include name="afterTest"/>
           <include name="afterMethod"/>
           <include name="beforeClass"/>
           <include name="afterSuite"/>
         </methods>
-      </class> <!-- ecom.BITM.SwagLabs.Product.SwagLabsProductToCart_TS3 -->
+      </class> <!-- ecom.BITM.SwagLabs.CartPage.SwagLabsEmptyCart_TS4 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

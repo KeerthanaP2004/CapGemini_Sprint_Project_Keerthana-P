@@ -35,7 +35,7 @@
             <class name="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutOverview_TS2"/>
             <class name="ecom.BITM.SwagLabs.CheckoutPage.SwagLabsCheckoutComplete_TS3"/>
 
-            <class name="ecom.BITM.SwagLabs.ContactSupport.ContactSupport_TS1"/>
+            <class name="ecom.BITM.SwagLabs.ContactSupport.SwagLabsContactSupport_TS1"/>
 
             <class name="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouPage_TS1"/>
             <class name="ecom.BITM.SwagLabs.ThankYouPage.SwagLabsThankYouNavigation_TS2"/>
